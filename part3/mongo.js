@@ -10,7 +10,7 @@ const url = `mongodb+srv://fullstack:${password}@cluster0.rdlchdj.mongodb.net/no
 
 mongoose.set('strictQuery', false)
 
-mongoose.connect(url, {family: 4})
+mongoose.connect(url, { family: 4 })
 
 const noteSchema = new mongoose.Schema({
   content: String,
