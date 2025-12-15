@@ -1,0 +1,5 @@
+MongoDB connect -
+username: fullstack
+jelszo: nZpQoaJcxc1okz1W
+
+mongodb+srv://fullstack:<db_password>@cluster0.rdlchdj.mongodb.net/?appName=Cluster0
